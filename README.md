@@ -1,4 +1,4 @@
-### Olá, eu sou o Luan 
+### Olá, eu sou o Luan 🥳 
 
 - 🔭 Sei um pouquinho de Java, C#, HTML, Javascript e Php
 - 🌱 Estudando um pouco de C# no Unity
