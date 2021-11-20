@@ -4,4 +4,4 @@
 - 🌱 Estudando um pouco de C# no Unity
 - 😄 Pronomes: Ele/Dele
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<center> ![Snake animation](https://github.com/LuanDiegs/LuanDiegs/blob/output/github-contribution-grid-snake.svg) </center>
+![Snake animation](https://github.com/LuanDiegs/LuanDiegs/blob/output/github-contribution-grid-snake.svg)
